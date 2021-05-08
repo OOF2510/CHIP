@@ -1,0 +1,10 @@
+{
+  "name": "chip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "OOF2510",
+  "license": "WTFPL",
+  "dependencies": {
+    "discord.js": "https://github.com/discordjs/discord.js/tarball/master"
+  }
+}
