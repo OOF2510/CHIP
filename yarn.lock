@@ -42,7 +42,7 @@ delayed-stream@~1.0.0:
 
 "discord.js@https://github.com/discordjs/discord.js/tarball/master":
   version "12.5.0"
-  resolved "https://github.com/discordjs/discord.js/tarball/master#c75fd8ec7291446f43947afb94081b674a008d3b"
+  resolved "https://github.com/discordjs/discord.js/tarball/master#f47a1b86961a0a56b4748455436cef9fcecc860a"
   dependencies:
     "@discordjs/collection" "^0.1.6"
     "@discordjs/form-data" "^3.0.1"
